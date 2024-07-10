@@ -20,7 +20,7 @@
 # Diseño
 
 ## Arquitectura
-(Arquitecura)
+![arquitectura](arquitectura.png)
 
 # Implementación
 
